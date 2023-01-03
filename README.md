@@ -1,1 +1,1 @@
-# Progressive-web-app
+# Code for the Progressive-web-app of LaGazetteTulliste
